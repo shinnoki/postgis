@@ -1,4 +1,4 @@
-FROM postgres:14-bullseye
+FROM postgres:13-bullseye
 
 LABEL maintainer="PostGIS Project - https://postgis.net"
 

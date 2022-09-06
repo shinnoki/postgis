@@ -11,7 +11,7 @@ Creating and publishing a Docker image using Github packages allows us to handle
 
 ## Versions used in this image
 
-Postgres 14-bullseye  
+Postgres 13-bullseye  
 Postgis 3.2.3  
 
 ## LICENSES
