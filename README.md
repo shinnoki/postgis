@@ -14,6 +14,10 @@ Creating and publishing a Docker image using Github packages allows us to handle
 Postgres 14-bullseye  
 Postgis 3.2.3  
 
+## LICENSES
+
+Source code of this image was taken from [`postgis/docker-postgis`](https://github.com/postgis/docker-postgis), Copyright 2014 Original Authors. This package is licensed under the MIT license. See [docker-postgis/LICENSE](https://github.com/postgis/docker-postgis/blob/master/LICENSE) for details.
+
 ## How to use
 
 After following the [Quickstart with Docker](https://hasura.io/docs/latest/getting-started/docker-simple/) guide, add `postgis` to services like below.
